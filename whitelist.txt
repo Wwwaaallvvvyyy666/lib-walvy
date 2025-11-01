@@ -27,6 +27,7 @@ SocXEsse3| |
 SocXEsse6| | 
 SocXEsse7| | 
 SocXJack1|10baf35e-8590-44c6-b019-4cc4e189efd7|9126800200
+SocXJack8| | 
 VennyTempikBOHAY| | 
 Wahyuni010101| | 
 Wahyuni020202| | 
