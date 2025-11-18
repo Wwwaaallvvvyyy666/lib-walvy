@@ -88,8 +88,8 @@ local Icons = {
     rod       = "rbxassetid://103247953194129",
     fish      = "rbxassetid://97167558235554",
     handshake      = "rbxassetid://118812884427306",
-    pinmap      = "rbxassetid://73741233122526",
-    map      = "rbxassetid://99330996336009",
+    pinmap      = "rbxassetid://134722365781829",
+    map      = "rbxassetid://115690060447581",
     home      = "rbxassetid://135016593915894",
 }
 
