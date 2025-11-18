@@ -87,10 +87,10 @@ local Icons = {
     next      = "rbxassetid://12662718374",
     rod       = "rbxassetid://103247953194129",
     fish      = "rbxassetid://97167558235554",
-    handshake      = "rbxassetid://98919743780456",
+    handshake      = "rbxassetid://118812884427306",
     pinmap      = "rbxassetid://73741233122526",
-    map      = "rbxassetid://120443758697514",
-    home      = "rbxassetid://82344003804488",
+    map      = "rbxassetid://123132628025244",
+    home      = "rbxassetid://138342752512747",
 }
 
 local UserInputService = game:GetService("UserInputService")
